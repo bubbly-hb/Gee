@@ -1,6 +1,7 @@
 package gee
 
 import (
+	"fmt"
 	"reflect"
 	"testing"
 )
